@@ -46,6 +46,9 @@ With speaker authorization, presentation slides and public recordings will be sh
 ├── 2026/                        # 2026 年度活动 / 2026 annual event
 │   ├── 嘉宾提前录制材料/         #   嘉宾预录视频 & 音频 / Pre-recorded talks
 │   ├── 嘉宾演讲PPT/             #   嘉宾演讲文稿 / Presentation slides
+│   ├── 嘉宾演讲逐字稿/           #   中英文会议逐字稿 / Chinese & English transcripts
+│   │   ├── zh/                  #     中文逐字稿 / Chinese transcripts
+│   │   └── en/                  #     英文逐字稿 / English transcripts
 │   ├── 嘉宾演讲视频和会议录制链接/ #   现场录制 & 直播回放 / Recordings & replays
 │   └── 花絮和物料准备/           #   周边、花絮、物料 / Behind-the-scenes & swag
 └── README.md
